@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.21.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.0.0",
+    "typescript": "^5.0.0"
+  }
+}

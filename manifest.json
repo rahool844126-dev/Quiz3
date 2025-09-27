@@ -1,0 +1,16 @@
+{
+  "short_name": "Hindi Quiz",
+  "name": "Hindi Quiz Master",
+  "description": "A never-ending quiz application in Hindi, powered by the Gemini API.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#F97316",
+  "background_color": "#FFFBF5"
+}
